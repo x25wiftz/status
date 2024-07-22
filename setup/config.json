@@ -50,12 +50,6 @@
             "{NF6(【 34 / 35 】)} | 🌸 ʟᴀᴜʀɪᴇʟ",
             "{NF6(【 35 / 35 】)} | 🌸 ᴀɪʀɪ"
           ],
-        "text-3": [
-            "🌡️ {temp:c} °C | 🍃 {wind:kph} km/",
-            "CPU : {cpu:usage}% RAM: {ram:usage}%",
-            "Ping Server : {ping} ms",
-            "🌏 {city} | ☀️ UV Index {uv}",
-            "☁ {cloud} | 🌎 {country}"
         ],
         "bigimg": [
             "https://i.ibb.co/9s3BXdX/raw-676624984.gif",
